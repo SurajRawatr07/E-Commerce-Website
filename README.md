@@ -53,7 +53,7 @@
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 E-commerce-Website/
