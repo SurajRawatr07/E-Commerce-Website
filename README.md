@@ -75,7 +75,7 @@ E-commerce-Website/
 git clone https://github.com/SurajRawatr07/E-commerce-Website.git
 ```
 
-## 2️ Navigate To Project Folder
+## Navigate To Project Folder
 
 ```bash
 cd E-commerce-Website
