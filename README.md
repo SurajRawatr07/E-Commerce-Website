@@ -143,7 +143,7 @@ Frontend Developer • Creative UI Developer • JavaScript Enthusiast
 
 ---
 
-# 🌟 Support
+#  Support
 
 If you like this project, give it a ⭐ on GitHub.
 
