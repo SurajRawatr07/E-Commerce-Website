@@ -124,7 +124,7 @@ Perfect for learning:
 
 ---
 
-# 🚀 Future Features
+#  Future Features
 
 - Shopping Cart System
 - Product Search Functionality
