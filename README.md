@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Apni Dukane — E-Commerce Website
+# 🛍️ Apni Dukane — E-Commerce Website
 
 ### Modern Responsive Online Shopping Platform
 
@@ -28,7 +28,7 @@
 
 ---
 
-#  Features
+# ✨ Features
 
 ✔️ Modern E-Commerce UI  
 ✔️ Fully Responsive Design  
@@ -43,9 +43,9 @@
 
 ---
 
-#  Tech Stack
+# 🛠️ Tech Stack
 
-##  Frontend
+## 🎨 Frontend
 
 - HTML5
 - CSS3
@@ -53,7 +53,7 @@
 
 ---
 
-#  Project Structure
+# 📂 Project Structure
 
 ```bash
 E-commerce-Website/
@@ -67,21 +67,21 @@ E-commerce-Website/
 
 ---
 
-#  Getting Started
+# ⚡ Getting Started
 
-##  Clone Repository
+## 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/SurajRawatr07/E-commerce-Website.git
 ```
 
-## Navigate To Project Folder
+## 2️⃣ Navigate To Project Folder
 
 ```bash
 cd E-commerce-Website
 ```
 
-## Open Project
+## 3️⃣ Open Project
 
 ```bash
 Open index.html in your browser
@@ -89,7 +89,7 @@ Open index.html in your browser
 
 ---
 
-#  UI Highlights
+# 🎨 UI Highlights
 
 - Premium E-Commerce Layout
 - Interactive Product Cards
@@ -100,7 +100,7 @@ Open index.html in your browser
 
 ---
 
-#  Responsive Design
+# 📱 Responsive Design
 
 Optimized for all devices:
 
@@ -110,7 +110,7 @@ Optimized for all devices:
 
 ---
 
-#  Why This Project?
+# 🔥 Why This Project?
 
 This project demonstrates modern frontend development concepts by building a responsive online shopping website with interactive UI components and modern web design techniques.
 
@@ -124,7 +124,7 @@ Perfect for learning:
 
 ---
 
-#  Future Features
+# 🚀 Future Features
 
 - Shopping Cart System
 - Product Search Functionality
@@ -135,7 +135,7 @@ Perfect for learning:
 
 ---
 
-#  Author
+# 👨‍💻 Author
 
 ## Suraj Rawat
 
@@ -143,14 +143,14 @@ Frontend Developer • Creative UI Developer • JavaScript Enthusiast
 
 ---
 
-#  Support
+# 🌟 Support
 
-If you like this project, give it a  on GitHub.
+If you like this project, give it a ⭐ on GitHub.
 
 ---
 
 <div align="center">
 
-#  Made With Passion By Suraj Rawat
+# ❤️ Made With Passion By Suraj Rawat
 
 </div>
