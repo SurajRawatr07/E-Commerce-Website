@@ -177,6 +177,6 @@ If you like this project, give it a ⭐ on GitHub and support the project.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66FF&height=120&section=footer"/>
 
-# ❤️ Made With Passion By Suraj Rawat
+#  Made With  By Suraj Rawat
 
 </div>
