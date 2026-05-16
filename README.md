@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛍️ Apni Dukane — E-Commerce Website
+#  Apni Dukane — E-Commerce Website
 
 ### Modern Responsive Online Shopping Platform
 
