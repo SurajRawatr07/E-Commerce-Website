@@ -45,7 +45,7 @@
 
 #  Tech Stack
 
-## 🎨 Frontend
+##  Frontend
 
 - HTML5
 - CSS3
