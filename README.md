@@ -81,7 +81,7 @@ git clone https://github.com/SurajRawatr07/E-commerce-Website.git
 cd E-commerce-Website
 ```
 
-## 3️⃣ Open Project
+## 3️ Open Project
 
 ```bash
 Open index.html in your browser
