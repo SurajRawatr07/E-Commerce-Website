@@ -100,7 +100,7 @@ Open index.html in your browser
 
 ---
 
-# 📱 Responsive Design
+#  Responsive Design
 
 Optimized for all devices:
 
