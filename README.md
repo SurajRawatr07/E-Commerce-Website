@@ -135,7 +135,7 @@ Perfect for learning:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ## Suraj Rawat
 
