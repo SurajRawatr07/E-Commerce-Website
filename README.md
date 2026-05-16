@@ -69,7 +69,7 @@ E-commerce-Website/
 
 #  Getting Started
 
-## 1️ Clone Repository
+##  Clone Repository
 
 ```bash
 git clone https://github.com/SurajRawatr07/E-commerce-Website.git
