@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛍️ Apni Dukane — E-Commerce Website
+#  Apni Dukane — E-Commerce Website
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=0A66FF&center=true&vCenter=true&width=700&lines=Modern+E-Commerce+Website;Responsive+Shopping+Platform;Interactive+Frontend+Experience;Built+With+HTML+CSS+%26+JavaScript" />
 
