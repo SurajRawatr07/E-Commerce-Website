@@ -130,7 +130,7 @@ Optimized for all devices:
 
 ---
 
-# 🔥 Why This Project?
+#  Why This Project?
 
 This project demonstrates modern frontend development concepts by building a responsive online shopping website with interactive UI components, smooth animations, and premium web design techniques.
 
