@@ -6,7 +6,7 @@
 
 <br>
 
-###  Modern Responsive Online Shopping Platform 
+### ✨ Modern Responsive Online Shopping Platform ✨
 
 <p align="center">
   A premium and responsive E-Commerce Website built using HTML, CSS, and JavaScript featuring modern UI design, interactive product sections, smooth animations, and beautiful shopping experience.
@@ -36,7 +36,7 @@
 
 ---
 
-#  Features
+# ✨ Features
 
 
 ✔️ Modern E-Commerce UI  
@@ -52,9 +52,9 @@
 
 ---
 
-#  Tech Stack
+# 🛠️ Tech Stack
 
-##  Frontend Technologies
+## 🎨 Frontend Technologies
 
 - HTML5
 - CSS3
@@ -62,7 +62,7 @@
 
 ---
 
-#  Project Structure
+# 📂 Project Structure
 
 ```bash
 E-commerce-Website/
@@ -79,7 +79,7 @@ E-commerce-Website/
 
 ---
 
-#  Getting Started
+# ⚡ Getting Started
 
 ## 1️⃣ Clone Repository
 
@@ -105,7 +105,7 @@ Open index.html in your browser
 
 ---
 
-#  UI Highlights
+# 🎨 UI Highlights
 
 ✨ Premium E-Commerce Layout  
 ✨ Interactive Product Cards  
@@ -130,7 +130,7 @@ Optimized for all devices:
 
 ---
 
-#  Why This Project?
+# 🔥 Why This Project?
 
 This project demonstrates modern frontend development concepts by building a responsive online shopping website with interactive UI components, smooth animations, and premium web design techniques.
 
