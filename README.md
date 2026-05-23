@@ -105,7 +105,7 @@ Open index.html in your browser
 
 ---
 
-# 🎨 UI Highlights
+#  UI Highlights
 
 ✨ Premium E-Commerce Layout  
 ✨ Interactive Product Cards  
