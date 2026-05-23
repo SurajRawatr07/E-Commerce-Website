@@ -52,7 +52,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ##  Frontend Technologies
 
