@@ -36,7 +36,7 @@
 
 ---
 
-# ✨ Features
+#  Features
 
 
 ✔️ Modern E-Commerce UI  
