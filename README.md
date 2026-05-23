@@ -79,7 +79,7 @@ E-commerce-Website/
 
 ---
 
-# ⚡ Getting Started
+#  Getting Started
 
 ## 1️⃣ Clone Repository
 
