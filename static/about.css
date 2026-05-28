@@ -9,7 +9,12 @@
       font-size: 13px!important; 
     }
     .btn{
-      font-si
+      font-size: 13px!important;
+    }
+    .img-sz{
+      height:150px!important;
+    }
+    .head-sz{
       font-size: 37px!important;
     }
     .mid-sz{
