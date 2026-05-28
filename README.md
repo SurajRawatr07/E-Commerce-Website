@@ -6,7 +6,7 @@
 
 <br>
 
-### ✨ Modern Responsive Online Shopping Platform ✨
+###  Modern Responsive Online Shopping Platform 
 
 <p align="center">
   A premium and responsive E-Commerce Website built using HTML, CSS, and JavaScript featuring modern UI design, interactive product sections, smooth animations, and beautiful shopping experience.
