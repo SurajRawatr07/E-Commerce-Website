@@ -2,16 +2,7 @@
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 4px;
-    font-size: 60px;
-    color: #2980b9;
-    text-shadow: 2px 2px 2px #2980b9;
-}
-button{
-  padding: 0.5rem 1rem;
-  
-  font-family: inherit;
-  color: var(--white);
-  font-size: 18px;
+    font-size: 60px
   font-weight: 600;
   
   background-color: inherit;
