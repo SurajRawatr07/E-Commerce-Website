@@ -3,16 +3,7 @@
       font-size: 13px!important;
     }
       margin:
-    .material-icons{
-      font-size: 24px!important;
-    }
-    a.btn{
-      font-size: 9px!important;
-      padding: .15rem .3rem!important;
-    }
-    .df-sz{
-      margin: top 5px !important;
-    }
+    .
   }
   @media screen and (max-width: 390px) {
     .nav-link{
