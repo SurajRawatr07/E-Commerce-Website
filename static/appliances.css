@@ -1,16 +1,6 @@
 #heading {
     text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    font-size: 60px;
-    color: #herit;
-  color: var(--white);
-  font-size: 18px;
-  font-weight: 600;
-  
-  background-color: inherit;
-  border: 1px hidden;
-  
+    text-transform
   cursor: pointer;
   
   transition: 0.1s ease-in-out;
