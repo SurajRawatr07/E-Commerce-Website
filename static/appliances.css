@@ -4,20 +4,7 @@
   cursor: pointer;
   ound-color: var(--orange);
 ma: var
-.label h1{
-  text-align: center;
-  font-size: 28px;
-  font-weight: 400;
-}
 
-/* HERO */
-
-.hero{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 3%;
-  height: 70vh;
  
 }
 
