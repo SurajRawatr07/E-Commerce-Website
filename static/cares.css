@@ -6,14 +6,7 @@
   
  3rem;
     font-size: 5rem;
-    color: #000066;
-}
-
-.our_cares{
-    width: auto;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+  wrap;
 }
 
 .our_cares .cares_member{
