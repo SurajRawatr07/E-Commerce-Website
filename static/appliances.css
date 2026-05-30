@@ -7,16 +7,7 @@ ma: var
 
  
 }
-
-.bg-1{
-    background-image: url("https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.bg-2{
-    background-image: url("https://images.unsplash.com/photo-1570222094114-d054a817e56b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1205&q=80");
-    background-position: center;
+on: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
