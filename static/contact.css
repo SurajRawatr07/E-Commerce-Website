@@ -7,16 +7,6 @@
     .mb-4{
       margin-bottom: 0.5rem!important;
     }
-    #btnScrollToTop{
-      width: 30px !important;
-      height: 30px !important;
-    }
-    .material-icons{
-      font-size: 19px!important;
-    }
-  }
-  @media screen and (max-width: 400px) {
-    .nav-link{
       font-size: 11px!important;
     }
     .dropdown-item{
