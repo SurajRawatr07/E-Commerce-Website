@@ -8,19 +8,6 @@
     .line-in{
       font-size: 13px!important; 
     }
-    .btn{
-      font-size: 13px!important;
-    }
-    #contact-head{
-      font-size: 25px!important;
-    }
-    #contact-message{
-      font-size: 14px!important;
-      margin:0px 20px!important;
-    }
-    .contact-inputs{
-      font-size: 10px!important;
-    }
     .contact-table{
       min-width: 200px!important;
       padding:6px 12px!important;
