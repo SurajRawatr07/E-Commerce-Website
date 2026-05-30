@@ -1,15 +1,7 @@
 @media screen and (max-width: 500px) {
     .nav-link{
       font-size: 13px!important;
-    }
-x 6px !important;
-    }
-  xedia{
-    
-    .text-white{
-      font-size: 13px!important;
-    }
-    footer h5::before{
+  
       padding-right: 2.5px!important;
     }
     .mb-4{
