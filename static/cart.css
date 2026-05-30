@@ -4,13 +4,7 @@
     }
       margin:
     .
-  }
-  @media screen and (max-width: 390px) {
-    .nav-link{
-      font-size: 11px!important;
-    }
-    .dropdown-item{
-      font-size: 11px!important;
+  }: 11px!important;
     }
     .line-in{
       font-size: 11px!important; 
