@@ -5,18 +5,7 @@
   z{
       font-size: 13px!important;
       margin: 0 !important;
-    }
-    .text-white{
-      font-size: 13px!important;
-    }
-    footer h5::before{
-      padding-right: 2.5px!important;
-    }
-    .mb-4{
-      margin-bottom: 0.5rem!important;
-    }
-    #btnScrollToTop{
-      width: 30px !important;
+    x !important;
       height: 30px !important;
     }
     .material-icons{
