@@ -3,11 +3,7 @@
     text-transform
   cursor: pointer;
   ound-color: var(--orange);
-  border-radius: 10px;
-  color: var(--blue);
-}
-
-.primary-button:hover{
+mary-button:hover{
   background-color: var(--orange);
   border-radius: 10px;
   color: var(--white);
