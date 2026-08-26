@@ -35,6 +35,7 @@ button{
   color: var(--white);
 }
 
+
 .secondary-button{
   border: 2px solid var(--orange);
   border-radius: 10px;
